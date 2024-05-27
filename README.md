@@ -10,6 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/lamija-velad%C5%BEi%C4%87-a4b17b257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lamija veladžić" height="30" width="40" /></a>
-<a href="https://www.instagram.com/veladzic.l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="velazdic.l" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lamija-velad%C5%BEi%C4%87-a4b17b257/" target="blank"><img align="center" src="https://github.com/LamijaVeladzic/LamijaVeladzic/assets/133516093/6a31be03-be27-420a-9427-ead544edd3c6" alt="lamija veladžić" height="30" width="40" /></a>
+<a href="https://www.instagram.com/veladzic.l/" target="blank"><img align="center" src="https://github.com/LamijaVeladzic/LamijaVeladzic/assets/133516093/6b802c70-aead-4899-8d40-2b87b083b65f" alt="velazdic.l" height="30" width="40" /></a>
 </p>
