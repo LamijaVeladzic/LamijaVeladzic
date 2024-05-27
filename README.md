@@ -9,5 +9,3 @@
 <a href="https://www.linkedin.com/in/lamija-velad%C5%BEi%C4%87-a4b17b257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lamija veladžić" height="30" width="40" /></a>
 <a href="https://www.instagram.com/veladzic.l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="velazdic.l" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamijaveladzic&show_icons=true&locale=en" alt="lamijaveladzic" /></p>
