@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineering student from Bosnia and Herzegovina</h3>
 
 <div align="center">
-  ![git](https://github.com/LamijaVeladzic/LamijaVeladzic/assets/133516093/23ce279c-d37f-470d-b8bd-39fc5d448eb4)
+  <img src="https://github.com/LamijaVeladzic/LamijaVeladzic/assets/133516093/23ce279c-d37f-470d-b8bd-39fc5d448eb4" alt="git" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
